@@ -1,0 +1,7 @@
+Git Commands--
+git init <file name created in github>
+git clone <link of file created in github>
+git status -- shows status
+git add .
+git commit 
+git push
